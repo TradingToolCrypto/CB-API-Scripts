@@ -8,8 +8,6 @@
 #include <TradingToolCrypto\CBP\CryptoBridgeProClass.mqh>
 CryptoBridge bridge;      // cryptoBridge class
 
-
-
 input group "TYPE IN THE ORDER TYPE"
 input string Script_Open_Order = "MARKET_BUY";
 input string Order_Price = "12345";
